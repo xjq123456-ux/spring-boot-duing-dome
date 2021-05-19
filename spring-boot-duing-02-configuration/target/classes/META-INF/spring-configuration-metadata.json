@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "food",
+      "type": "com.duing.config.ConfigBean",
+      "sourceType": "com.duing.config.ConfigBean"
+    }
+  ],
+  "properties": [
+    {
+      "name": "food.meat",
+      "type": "java.lang.String",
+      "sourceType": "com.duing.config.ConfigBean"
+    },
+    {
+      "name": "food.rice",
+      "type": "java.lang.String",
+      "sourceType": "com.duing.config.ConfigBean"
+    }
+  ],
+  "hints": []
+}
